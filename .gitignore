@@ -1,0 +1,11 @@
+# Ambiente virtual e cache do Python
+venv/
+source/
+__pycache__/
+
+# Modelo treinado com o rosto de quem usa (gerar no Teachable Machine)
+keras_model.h5
+labels.txt
+
+# Fotos das tentativas de acesso negadas
+acessos_negados/

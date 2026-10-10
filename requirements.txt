@@ -1,0 +1,4 @@
+tensorflow
+tf-keras
+opencv-contrib-python
+pyserial
